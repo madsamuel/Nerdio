@@ -1,0 +1,1 @@
+This repo contains artefacts used in the MSIX app attach master class.
