@@ -1,0 +1,1 @@
+# This is an exported Nerdio for Enterprise ARM template that has been modified to remove dependecies on artefacts stored in the Marketplace.
